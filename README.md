@@ -42,4 +42,6 @@ The robot completes the challenge track using the following behavior flow:
 See `youtube.txt` for the demo URL.
 
 ## Authors
-- (Add your names here)
+- Adam Mohammad 20220032
+- Ahmad Al-Khatib 20220692
+- Malek Radwan 20220801
